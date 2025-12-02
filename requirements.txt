@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+plotly
+folium
+streamlit-folium
+Pillow
+feedparser
+beautifulsoup4
